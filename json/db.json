@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "polkadot",
+      "author": "Jihan"
+    },
+    {
+      "id": 2,
+      "name": "orange",
+      "author": "abdul"
+    },
+    {
+      "id": 3,
+      "name": "blue",
+      "author": "yelan"
+    },
+    {
+      "id": 4,
+      "name": "white",
+      "author": "ayaka"
+    },
+    {
+      "id": 5,
+      "name": "yellow",
+      "author": "zhongli"
+    },
+    {
+      "id": 6,
+      "name": "green",
+      "author": "venty"
+    },
+    {
+      "id": 7,
+      "name": "red",
+      "author": "kazuha"
+    },
+    {
+      "id": 8,
+      "name": "deep blue",
+      "author": "xinque"
+    },
+    {
+      "id": 9,
+      "name": "light green",
+      "author": "wanderer"
+    },
+    {
+      "id": 10,
+      "name": "another green",
+      "author": "sucrose"
+    },
+    {
+      "id": 11,
+      "name": "another blue",
+      "author": "mona"
+    },
+    {
+      "id": 12,
+      "name": "gray",
+      "author": "aether"
+    },
+    {
+      "id": 13,
+      "name": "another gray",
+      "author": "lumine"
+    },
+    {
+      "id": 14,
+      "name": "green strong",
+      "author": "nahida"
+    },
+    {
+      "id": 15,
+      "name": "maroon",
+      "author": "bennet"
+    },
+    {
+      "id": 16,
+      "name": "pink",
+      "author": "yae miko"
+    },
+    {
+      "id": 17,
+      "name": "gold",
+      "author": "arataki"
+    },
+    {
+      "id": 18,
+      "name": "deep purple",
+      "author": "lisa"
+    },
+    {
+      "id": 19,
+      "name": "another purple",
+      "author": "fischl"
+    },
+    {
+      "id": 20,
+      "name": "purple",
+      "author": "raiden ei"
+    }
+  ]
+}
