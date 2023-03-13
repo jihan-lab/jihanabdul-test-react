@@ -1,10 +1,12 @@
 # jihanabdul-test-react
 
-Untuk bisa menggunakan project ini, instal terlebih dahulu "npm install" pada folder frontend-jihan-test
-dan install juga "npm install -g json-server" untuk menjalankan server fake api.
+Untuk bisa menggunakan project ini, 
+1. instal terlebih dahulu "npm install" pada folder frontend-jihan-test
+2. install juga "npm install -g json-server" untuk menjalankan server fake api.
 
-untuk menjalankan server fake api, lakukan perintah "json-server --watch db.json" pada folder json
-lakukan perintah "npm start" pada folder frontend-jihan-test.
+untuk menjalankan server fake api, lakukan perintah : 
+1. "json-server --watch db.json" pada folder json.
+2. lakukan perintah "npm start" pada folder frontend-jihan-test.
 
 ![image](https://user-images.githubusercontent.com/73427229/224688312-a96fcc48-2983-453d-b51f-cf5cc26a6cb6.png)
 ini tampilan awal web, menampilkan list product dengan infinite scroll per 10 product
