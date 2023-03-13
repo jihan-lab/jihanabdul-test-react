@@ -1,6 +1,6 @@
 # jihanabdul-test-react
 
-untuk bisa menggunakan project ini, instal terlebih dahulu "npm install" pada folder frontend-jihan-test
+Untuk bisa menggunakan project ini, instal terlebih dahulu "npm install" pada folder frontend-jihan-test
 dan install juga "npm install -g json-server" untuk menjalankan server fake api.
 
 untuk menjalankan server fake api, lakukan perintah "json-server --watch db.json" pada folder json
@@ -17,3 +17,7 @@ tampilan update product
 
 ![image](https://user-images.githubusercontent.com/73427229/224689504-73b2d2fd-71cf-4587-973b-7b67036a7ecf.png)
 button delete data berdasarkan id yang dipilih, akan muncul alert saat delete data berhasil
+
+#Library yang digunakan 
+1. React JS
+2. Bootstrap
